@@ -33,5 +33,6 @@ T(i,j) = 1/4 * (T(i-1,j) + T(i+1,j) + T(i,j-1) + T(i,j+1))
 The method iteratively updates the temperature of the plate at each time step
 
 ## Example
-<img src = "image.png" width = "500" height = "300">
+<img src = "image.png" width = "300" height = "300">
+<img src = "Screenshot 2026-05-23 192018.png" width = "300" height = "300">
 
